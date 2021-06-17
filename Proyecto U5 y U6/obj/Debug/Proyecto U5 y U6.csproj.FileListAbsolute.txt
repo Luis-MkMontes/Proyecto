@@ -1,0 +1,7 @@
+C:\Users\Antonio\source\repos\Proyecto U5 y U6\Proyecto U5 y U6\bin\Debug\Proyecto U5 y U6.exe.config
+C:\Users\Antonio\source\repos\Proyecto U5 y U6\Proyecto U5 y U6\bin\Debug\Proyecto U5 y U6.exe
+C:\Users\Antonio\source\repos\Proyecto U5 y U6\Proyecto U5 y U6\bin\Debug\Proyecto U5 y U6.pdb
+C:\Users\Antonio\source\repos\Proyecto U5 y U6\Proyecto U5 y U6\obj\Debug\Proyecto U5 y U6.csprojAssemblyReference.cache
+C:\Users\Antonio\source\repos\Proyecto U5 y U6\Proyecto U5 y U6\obj\Debug\Proyecto U5 y U6.csproj.CoreCompileInputs.cache
+C:\Users\Antonio\source\repos\Proyecto U5 y U6\Proyecto U5 y U6\obj\Debug\Proyecto U5 y U6.exe
+C:\Users\Antonio\source\repos\Proyecto U5 y U6\Proyecto U5 y U6\obj\Debug\Proyecto U5 y U6.pdb
